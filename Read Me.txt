@@ -1,0 +1,44 @@
+----------------------
+Summary
+----------------------
+Lost life is simple dungeon type game where the user uses the arrow keys to
+navigate the 'hero' dungeon past enemies, that move to a random space every time
+the player moves, and hazards like water or pits, to take possession of the red
+gem and get back to the entrance.  Walking into a hazard automatically results in
+death.  Touching an enemy loses one life bar.  When the life bar is empty the
+player has died and the game is over.  
+
+The unique aspect of this game is that the board is regenerated randomly upon 
+every new instance of play.
+
+
+----------------------
+Lost Life Application
+----------------------
+The game is coded with Processing which is just a derivative of Java.  The
+compiler offers an export application option.  Simply double click on the file named
+'Lost Life' to start the game.
+
+
+----------------------
+Folder: data
+----------------------
+This folder holds all the images used within the game.
+
+
+----------------------
+Folder: lib
+----------------------
+This folder holds any files needed to make the application export possible.
+
+
+----------------------
+Folder: source
+----------------------
+This folder holds all source files for the game.
+
+
+
+
+
+
